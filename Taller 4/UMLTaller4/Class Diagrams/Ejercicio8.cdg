@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Ejercicio8">
+  <ClassDiagramComponents>
+    <Class name="Libro" package="" visibility="public" xPosition="229.0" yPosition="255.0">
+      <Fields>
+        <Field name="untitledField" type="Object" visibility="private"/>
+        <Field name="untitledField1" type="Object" visibility="private"/>
+        <Field name="untitledField2" type="Object" visibility="private"/>
+        <Field name="untitledField3" type="Object" visibility="private"/>
+        <Field name="untitledField4" type="Object" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="leerInfoLibro" returnType="void" visibility="public"/>
+        <Method name="mostrarInfoLibro" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

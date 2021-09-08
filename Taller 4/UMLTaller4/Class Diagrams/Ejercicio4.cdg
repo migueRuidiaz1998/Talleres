@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Ejercicio4">
+  <ClassDiagramComponents>
+    <Class name="Coche" package="" visibility="public" xPosition="276.0" yPosition="157.0">
+      <Fields>
+        <Field name="color" type="String" visibility="private"/>
+        <Field name="marca" type="String" visibility="private"/>
+        <Field name="modelo" type="int" visibility="private"/>
+        <Field name="NoCaballo" type="int" visibility="private"/>
+        <Field name="NoPuertas" type="int" visibility="private"/>
+        <Field name="Matricula" type="String" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

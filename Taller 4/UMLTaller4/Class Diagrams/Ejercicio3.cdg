@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Ejercicio3">
+  <ClassDiagramComponents>
+    <Class name="Habitacion" package="" visibility="public" xPosition="310.0" yPosition="153.0">
+      <Fields>
+        <Field name="ancho" type="double" visibility="private"/>
+        <Field name="largo" type="double" visibility="private"/>
+        <Field name="altura" type="double" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="calcularMetros" returnType="double" visibility="public"/>
+        <Method name="calcularPapel" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

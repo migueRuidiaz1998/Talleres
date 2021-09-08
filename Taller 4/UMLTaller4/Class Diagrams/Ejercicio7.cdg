@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Ejercicio7">
+  <ClassDiagramComponents>
+    <Class name="Producto" package="" visibility="public" xPosition="207.0" yPosition="127.0">
+      <Fields>
+        <Field name="codigo" type="int" visibility="private"/>
+        <Field name="nombre" type="String" visibility="private"/>
+        <Field name="precioCompra" type="double" visibility="private"/>
+        <Field name="utilidad" type="int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="precioVenta" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

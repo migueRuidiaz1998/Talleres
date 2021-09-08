@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Trianguloiso">
+  <ClassDiagramComponents>
+    <Class name="Trianguloiso" package="" visibility="public" xPosition="278.0" yPosition="98.0">
+      <Fields>
+        <Field name="base" type="double" visibility="private"/>
+        <Field name="altuta" type="double" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="Trianguloiso" returnType="void" visibility="public"/>
+        <Method name="getBase" returnType="double" visibility="public"/>
+        <Method name="setBase" returnType="void" visibility="public">
+          <Argument type="double" name="base"/>
+        </Method>
+        <Method name="getAltuta" returnType="double" visibility="public"/>
+        <Method name="setAltuta" returnType="void" visibility="public">
+          <Argument type="double" name="altuta"/>
+        </Method>
+        <Method name="calcArea" returnType="double" visibility="public"/>
+        <Method name="calcLados" returnType="double" visibility="public"/>
+        <Method name="calcPerimetro" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

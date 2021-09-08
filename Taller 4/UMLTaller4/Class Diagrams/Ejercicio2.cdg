@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Ejercicio2">
+  <ClassDiagramComponents>
+    <Class name="Ecuacion" package="" visibility="public" xPosition="216.0" yPosition="74.0">
+      <Fields>
+        <Field name="a" type="int" visibility="private"/>
+        <Field name="b" type="int" visibility="private"/>
+        <Field name="c" type="int" visibility="private"/>
+        <Field name="x" type="int" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="imprimirY" returnType="int" visibility="public"/>
+        <Method name="getA" returnType="int" visibility="public"/>
+        <Method name="getB" returnType="int" visibility="public"/>
+        <Method name="getC" returnType="int" visibility="public"/>
+        <Method name="getX" returnType="int" visibility="public"/>
+        <Method name="setA" returnType="void" visibility="public"/>
+        <Method name="setB" returnType="void" visibility="public"/>
+        <Method name="setC" returnType="void" visibility="public"/>
+        <Method name="setX" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
